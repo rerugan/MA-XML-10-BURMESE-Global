@@ -58,7 +58,7 @@
         <item quantity="other">အဆက်အသွယ် %d ခုကို အောင်မြင်စွာ ပြန်ယူပြီးပါပြီ</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">အဆက်အသွယ် %1$dခု တင်သွင်းခဲ့သည်။</item>
+        <item quantity="other">အဆက်အသွယ် %1$dခု ထည့်သွင်းခဲ့သည်။</item>
     </plurals>
     <plurals name="device_import_progress_toast_plurals">
         <item quantity="other">အဆက်အသွယ် %1$d ခုကို သွင်းပြီးပါပြီ</item>
@@ -163,6 +163,6 @@
         <item quantity="other">အများဆုံး %1$dခု ရွေးနိုင်သည်</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">လူပုဂ္ဂိုလ်%1$d ဦး</item>
+        <item quantity="other">လူပုဂ္ဂိုလ် %1$d ဦး</item>
     </plurals>
 </resources>
