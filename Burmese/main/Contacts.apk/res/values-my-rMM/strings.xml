@@ -15,7 +15,7 @@
     <string name="activity_title_contacts_filter">ပြသရန် အဆက်အသွယ်များ</string>
     <string name="add_account">အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="add_blacklist">ဘလော့လုပ်ပါ</string>
-    <string name="add_blacklist_dialog_message">ဒီနံပါတ်မှ ဘလော့လုပ်ထားသောမက်ဆေ့ချ်များနှင့်ခေါ်ဆိုမှုများကို ဖျက်ပစ်မလား?</string>
+    <string name="add_blacklist_dialog_message">ဒီနံပါတ်မှ ဘလော့လုပ်ထားသောမက်ဆေ့ချ်များနှင့်ခေါ်ဆိုမှုများကို ပယ်ဖျက်ပစ်မလား?</string>
     <string name="add_blacklist_dialog_title">ဤနံပါတ်အား ဘလော့လုပ်မည်လား?</string>
     <string name="add_connection_button">ချိတ်ဆက်မှုကို ထည့်ပါ</string>
     <string name="add_field">အခြား လုပ်ငန်းနယ်ပယ်သို့ ထည့်ပါ</string>
@@ -30,12 +30,12 @@
     <string name="aggregation_suggestion_join_dialog_message">လက်ရှိ အဆက်အသွယ်ကို ရွေးထားသော အဆက်အသွယ်ဖြင့် ပေါင်းစုမလား။</string>
     <string name="ai_calllog_call_record_menu">AI ဖုန်းခေါ်မှုမှတ်တမ်းတင်စနစ်</string>
     <string name="all_list_empty">အဆက်အသွယ်မရှိပါ</string>
-    <string name="am">နံနက်</string>
+    <string name="am">မနက်</string>
     <string name="antispam_mark_my_contribution">အလံပြအချက်အလက်များအား မျှဝေနေသည်</string>
     <string name="attach_photo_dialog_title">အဆက်အသွယ်ဓာတ်ပုံ</string>
-    <string name="audio_chat">အသံချတ်</string>
+    <string name="audio_chat">အသံချက်</string>
     <string name="auto_nickname">အော်တို</string>
-    <string name="auto_record_yellowpage">အဝါရောင်စာမျက်နှာများ</string>
+    <string name="auto_record_yellowpage">ကြော်ညာ စာမျက်နှာများ</string>
     <string name="auto_set_nickname">အော်တို</string>
     <string name="back_description">နောက်သို့</string>
     <string name="back_view_description">နောက်ပြန်သွား</string>
@@ -82,7 +82,7 @@
     <string name="call_record_content_search_summary">စကားလုံးအချို့ ဖော်ပြခဲ့သော ခေါ်ဆိုမှုများကို ရှာဖွေနိုင်စေရန်အတွက် ခေါ်ဆိုမှုများအား အလိုအလျောက် မှတ်တမ်းတင်၍ စာသားအဖြစ် ပြောင်းလိုက်ပါ</string>
     <string name="call_record_content_summary">သင်၏ ပုဂ္ဂိုလ်ရေးလုံခြုံမှုကို ကာကွယ်ရန်အလို့ငှာ သင်၏ ခေါ်ဆိုမှုများအတွက် အသံဖမ်းယူမှုများနှင့် စားသားအဖြစ်ပြောင်းထားသော စားသားများအား သင့်စက်အတွင်းတွင် အသွင်ဝှက်၍ သိမ်းဆည်းပေးပါမည်။ အခြားအက်ပ်များက ဤအိုင်တမ်များအား ဝင်သုံးနိုင်မည် မဟုတ်ပါ။</string>
     <string name="call_record_content_title">ခေါ်ဆိုမှုမှတ်တမ်းများကို စာသားအဖြစ် ပြောင်းရန်</string>
-    <string name="call_record_content_type">သိမ်းထားသော မှတ်တမ်းများ</string>
+    <string name="call_record_content_type">သိမ်းထားသော ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းများ</string>
     <string name="call_record_content_type_audio">အသံတစ်မျိုးတည်းသာ</string>
     <string name="call_record_content_type_audio_text">အသံနှင့် စာသား</string>
     <string name="call_record_content_type_text">စာသားတစ်မျိုးတည်းသာ</string>
@@ -105,10 +105,10 @@
     <string name="call_recording_notification_title">မှတ်တမ်းတင်ထားသော ခေါ်ဆိုမှုများအကြောင်း အသိပေးရန်</string>
     <string name="call_recording_notification_title_error">ခေါ်ဆိုမှုကို မှတ်တမ်းတင်၍ မရပါ</string>
     <string name="call_recording_setting">ခေါ်ဆိုမှု မှတ်တမ်းများ</string>
-    <string name="call_sim1_description">ဆင်းမ်1</string>
-    <string name="call_sim1_menu_title">ဆင်းမ်1 မှခေါ်ပါ</string>
-    <string name="call_sim2_description">ဆင်းမ်2</string>
-    <string name="call_sim2_menu_title">ဆင်းမ်2 မှခေါ်ပါ</string>
+    <string name="call_sim1_description">ဆင်းမ် ၁</string>
+    <string name="call_sim1_menu_title">ဆင်းမ် ၁ မှခေါ်ပါ</string>
+    <string name="call_sim2_description">ဆင်းမ် ၂</string>
+    <string name="call_sim2_menu_title">ဆင်းမ် ၂ မှခေါ်ပါ</string>
     <string name="call_sim_menu_title_suffix">(ဦးစားပေး)</string>
     <string name="call_telex">တယ်လက်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_tty_tdd">TTY/TDD ဖုန်းကို ခေါ်ပါ</string>
@@ -130,7 +130,7 @@
     <string name="callrecordview_item_op_video">ဗီဒီယို</string>
     <string name="callrecordview_menu_add_call_note">ခေါ်ဆိုမှုမှတ်စု ပေါင်းထည့်ပါ</string>
     <string name="callrecordview_menu_aiphone">AI ခေါ်ဆိုမှုများ</string>
-    <string name="callrecordview_menu_batch_delete">ဒေတာအားရှင်းလင်း</string>
+    <string name="callrecordview_menu_batch_delete">ဒေတာအား အတွဲလိုက် ရှင်းလင်း</string>
     <string name="callrecordview_menu_blocklist">ဘလော့စာရင်း</string>
     <string name="callrecordview_menu_conference">ကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
     <string name="callrecordview_menu_delete">ဖျက်ရန်</string>
