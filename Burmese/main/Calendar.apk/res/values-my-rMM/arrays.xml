@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>တစ်ခုမျှမရှိပါ</item>
-        <item>Hijri Samvat</item>
-        <item>Shaka Samvat</item>
-        <item>Vikrami Samvat</item>
+        <item>အစ္စလမ်ပြက္ခဒိန်</item>
+        <item>အိန္ဒိယအမျိုးသားပြက္ခဒိန်</item>
+        <item>ဗီကရန်ပြက္ခဒိန်</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
@@ -15,10 +15,6 @@
         <item>aries</item>
         <item>မဿိရာသီဖွား</item>
         <item>21/3 - 19/4</item>
-    </string-array>
-    <string-array name="bundesliga">
-        <item>၂</item>
-        <item>ဘွန်ဒစ်လီဂါ</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
@@ -34,42 +30,13 @@
         <item>ဤလုပ်ငန်းစဉ်သာ</item>
         <item>ဤစီးရီးရှိ လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>တစ်ကြိမ်ပိတ်ရန်</item>
+        <item>အမြဲပိတ်ရန်</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>ရှေ့သို့</item>
         <item>နောက်သို့</item>
-    </string-array>
-    <string-array name="dates">
-        <item>၁</item>
-        <item>၂</item>
-        <item>၃</item>
-        <item>၄</item>
-        <item>၅</item>
-        <item>၆</item>
-        <item>၇</item>
-        <item>၈</item>
-        <item>၉</item>
-        <item>၁၀</item>
-        <item>၁၁</item>
-        <item>၁၂</item>
-        <item>၁၃</item>
-        <item>၁၄</item>
-        <item>၁၅</item>
-        <item>၁၆</item>
-        <item>၁၇</item>
-        <item>၁၈</item>
-        <item>၁၉</item>
-        <item>၂၀</item>
-        <item>၂၁</item>
-        <item>၂၂</item>
-        <item>၂၃</item>
-        <item>၂၄</item>
-        <item>၂၅</item>
-        <item>၂၆</item>
-        <item>၂၇</item>
-        <item>၂၈</item>
-        <item>၂၉</item>
-        <item>၃၀</item>
-        <item>၃၁</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>ပွဲစဉ်အချိန်တွင်</item>
@@ -106,10 +73,6 @@
         <item>Dhul-Qadah</item>
         <item>Dhul-Hijjah</item>
     </string-array>
-    <string-array name="la_liga">
-        <item>၃</item>
-        <item>လာလီဂါ</item>
-    </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>သိဟ်ရာသီဖွား</item>
@@ -120,16 +83,16 @@
         <item>တူရာသီဖွား</item>
         <item>23/9 - 23/10</item>
     </string-array>
-    <string-array name="ligue_1">
-        <item>၅</item>
-        <item>လီဂူး ၁</item>
+    <string-array name="open_alarm_repeating_labels">
+        <item>တစ်ကြိမ်ဖွင့်ရန်</item>
+        <item>အမြဲဖွင့်ရန်</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>တနင်္ဂနွေ</item>
         <item>တနင်္လာ</item>
         <item>အင်္ဂါ</item>
         <item>ဗုဒ္ဓဟူး</item>
-        <item>ကြာသပတေး</item>
+        <item>ကြာသာပတေး</item>
         <item>သောကြာ</item>
         <item>စနေ</item>
     </string-array>
@@ -137,6 +100,11 @@
         <item>pisces</item>
         <item>မိန်ရာသီဖွား</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>ပိတ်ရန်</item>
+        <item>ပွဲစဉ်အားလုံးအတွက်</item>
+        <item>အချိန်အကန့်အသတ်ရှိသော ပွဲစဉ်များအတွက်</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>အမြဲတမ်း</item>
@@ -286,10 +254,6 @@
         <item>ဗြိစ္ဆာရာသီဖွား</item>
         <item>24/10 - 22/11</item>
     </string-array>
-    <string-array name="serie_a">
-        <item>၁</item>
-        <item>စီးရီးအေ</item>
-    </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>ပြဿိ</item>
@@ -382,13 +346,6 @@
         <item>အော်ခ်လန်</item>
         <item>ဖီဂျီ</item>
         <item>တွန်ဂါ</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>၃ နာရီမတိုင်ခင်က</item>
-        <item>၄ နာရီမတိုင်ခင်က</item>
-        <item>၅ နာရီမတိုင်ခင်က</item>
-        <item>၆ နာရီမတိုင်ခင်က</item>
-        <item>" ၁ရက် မတိုင်ခင်က"</item>
     </string-array>
     <string-array name="vikrami_samvat_month_names">
         <item>Chaitra</item>

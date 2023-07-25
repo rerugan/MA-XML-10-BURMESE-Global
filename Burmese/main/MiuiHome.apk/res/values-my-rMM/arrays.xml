@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>အေးအေးဆေးဆေး</item>
+        <item>ဘက်မျှ</item>
+        <item>အမြန်</item>
+    </string-array>
     <string-array name="cell_layout_size_entries">
         <item>၄x၄</item>
         <item>၄x၅</item>
@@ -43,6 +48,13 @@
     <string-array name="gadget_weather_theme_type_entries">
         <item>မူလပုံစံ</item>
         <item>ဂန္ထဝင်</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>မူရင်း</item>
+        <item>အပြာ</item>
+        <item>အစိမ်း</item>
+        <item>ခရမ်း</item>
+        <item>အညို</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>ဆလိုက်</item>

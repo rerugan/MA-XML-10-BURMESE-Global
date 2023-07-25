@@ -9,12 +9,16 @@
     <string name="add_alarm">နှိုးစက်ထည့်ရန်</string>
     <string name="add_clock">နာရီ ပေါင်းထည့်ပါ</string>
     <string name="add_common_timer">တိုင်မာထည့်ပါ</string>
+    <string name="add_new_sound">ဖုန်းမြည်သံထည့်ရန်</string>
     <string name="add_timer">အသုံးများသောအချိန်</string>
+    <string name="add_timer_dialog_title">တိုင်မာထည့်ရန်</string>
     <string name="add_timezone_title">ဒေသစံတော်ချိန် ပေါင်းထည့်မည်</string>
     <string name="afternoon">နေ့လယ်</string>
     <string name="agree">သဘောတူပါသည်</string>
     <string name="alarm_alert_alert_silenced">%1$s နောက် နှိုးစက် ရပ်သွားလိမ့်မည်။</string>
     <string name="alarm_alert_disabled">ပိတ်မည်</string>
+    <string name="alarm_alert_now">%s နှိုးစက်</string>
+    <string name="alarm_alert_snooze_button">မှေးရန်</string>
     <string name="alarm_ascending_mode_summary">နှိုးစက်အသံပမာဏကို တဖြည်းဖြည်း မြင့်တက်စေပါ</string>
     <string name="alarm_ascending_mode_title">အသံပမာဏ မြင့်တက်စေပါ</string>
     <string name="alarm_clock_more_setting">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -36,10 +40,12 @@
     <string name="alarmclock_empty_text">နှိုးစက်ချိန်များ မရှိပါ</string>
     <string name="alarmclock_silent_hint">နှိုးစက်အား အသံတိတ်ထားသည်</string>
     <string name="alert">ဖုန်းမြည်သံ</string>
+    <string name="alert_page_desc">နှိုးစက်ပိတ်ရန် ထိ၍ဖိထားပြီး အပေါ်သို့ပွတ်ဆွဲပါ</string>
     <string name="alert_ringtone">နှိုးစက်သံ</string>
     <string name="alert_vibrate_enable_summary">နှိုးစက်ပိတ်သွားသောအခါ တုန်ခါပါ</string>
     <string name="alert_volume">မြည်သံအတိုးအကျယ်</string>
     <string name="alert_volume_summary">နှိုးစက်နှင့် ချိန်ကိုက်စက်တို့အတွက် နှိုးစက်သံအတိုးအကျယ်ကို သတ်မှတ်ပါ</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI စကားပြောနေသည်…</string>
     <string name="already_exist">ဤအချိန်ကိုက်စနစ်ရှိထားပြီးဖြစ်သည်</string>
     <string name="am">နံနက်</string>
     <string name="analog_gadget">ရိုးရိုးနာရီ</string>
@@ -83,8 +89,10 @@
     <string name="channel_name_timer">တိုင်မာ</string>
     <string name="check_theme_app_install">သင့်ဖုန်းတွင် သင်းမ် အက်ပ် ထည့်သွင်းထားပါ။</string>
     <string name="check_voice_assist_app_version">Mi AI အား နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ပါ။</string>
+    <string name="cities_show_limit_desc">နောက်ထပ်နာရီများကို ပြသမရပါ</string>
     <string name="city_time_contrast_desc">မြို့အမျိုးမျိုးရှိ စံတော်ချိန်များကို နှိုင်းယှဉ်ရန် တို့ပါ</string>
     <string name="clearable_edittext_clear_description">ရှင်းရန်</string>
+    <string name="click_to_cancel_alarm">ပိတ်ရန်တို့ပါ</string>
     <string name="clock_bg_button_setting_summary_common">နာရီ အက်ပ်အတွက် နောက်ခံအရောင် ရွေးပါ</string>
     <string name="clock_bg_button_setting_summary_follow_sys">အရောင်မှိန် မုဒ်သို့ ပြောင်းတိုင်း နာရီ နောက်ခံအရောင် အမည်းအား သုံးမည်</string>
     <string name="clock_bg_button_setting_title">နောက်ခံအရောင်</string>
@@ -95,12 +103,14 @@
     <string name="common_timer_selector">တိုင်မာရွေးပါ</string>
     <string name="confirm">အတည်ပြုရန်</string>
     <string name="confirm_abort">ဖယ်ပစ်ပါ</string>
+    <string name="confirm_remove_custom_ringtone">၎င်းကိုသုံးသော ဖုန်းမြည်သံ၊ နှိုးစက်သံနှင့်၊ တိုင်မာသံကို ဖျက်လိုက်ပါက မူရင်းဖုန်းမြည်သံဖြင့် မြည်ပါမည်။ ယခုဖျက်လိုသလား။</string>
     <string name="content_desc_keep_screen">\"စခရင် ဖွင့်ထားပါ\" ခလုတ်</string>
     <string name="continue_operation">ဆက်လုပ်မည်</string>
     <string name="continue_step">နောက်တစ်ဆင့်</string>
     <string name="control_set_alarm">နှိုးစက်သတ်မှတ်</string>
     <string name="control_set_alarm_with_existing">နှိုးစက်သတ်မှတ်လိုက်သော−%s</string>
     <string name="current_stopwatch_time">လက်ရှိအချိန်</string>
+    <string name="custom_ringtone_lost_permissions">ဤအသံကို ဝင်မရပါ။</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -116,6 +126,7 @@
     <string name="delete_timer_item_title">စံချိန်စက်အလုပ်ပုံစံ ဖျက်ပစ်ပါ</string>
     <string name="delete_timezone_title">ဒေသစံတော်ချိန် ဖျက်ပစ်ပါ</string>
     <string name="deskclock_sleep_no_disturbance">နာရီ - အိပ်စက်ချိန်ကို စီမံရန် - မနှောင့်ယှက်ပါနှင့် မုဒ်</string>
+    <string name="device_sounds">စက်အသံများ</string>
     <string name="dialog_confirm_abort">အပြောင်းအလဲများ ဖယ်ပစ်မလား။</string>
     <string name="dialog_legal_off_day">&lt;Data>သင်သည် အားလပ်ရက်နှိုးစက်များ သုံးနေပုံရသည်။ ဤအင်္ဂါရပ် ပုံမှန်အလုပ်လုပ်ရန် အတွက် အင်တာနက်နှင့် ချိတ်ရပါမည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> တို့ကို သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">အားလပ်ရက်အချက်အလက်များ အပ်ပဒိတ်လုပ်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ခွင့်မပြုထားပါ။ အားလပ်ရက်နှိုးစက်များ စနေနှင့် တနင်္ဂနွေတွင် မြည်ပါမည်။</string>
@@ -163,7 +174,7 @@
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_short_year_month_day">yyyy, MMM d</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -181,12 +192,12 @@
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_millis">"S'မီလီစက္ကန့်'"</string>
+    <string name="fmt_time_minute">"m'မိနစ်'"</string>
+    <string name="fmt_time_minute_second">"m'မိနစ်' s'စက္ကန့်'"</string>
+    <string name="fmt_time_minute_second_millis">"m'မိနစ်' s.S'စက္ကန့်'"</string>
+    <string name="fmt_time_second">"s'စက္ကန့်'"</string>
+    <string name="fmt_time_second_millis">"s.S'စက္ကန့်'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -199,6 +210,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="force_start_permission_desc">အက်(ပ်)ပိတ်ပြီးလျှင်လည်း နှိုးစက်များကို ကောင်းစွာအလုပ်လုပ်ရန် ခွင့်ပြုပါ</string>
+    <string name="force_start_permission_title">အလိုအလျောက်စပါ</string>
     <string name="force_touch_add_alarm">နှိုးစက်ထည့်ရန်</string>
     <string name="force_touch_enter_stopwatch">စံချိန်ယူနာရီ</string>
     <string name="force_touch_enter_timer">အချိန်တွက်စက်</string>
@@ -265,6 +278,23 @@
     <string name="menu_item_sort_by_gmt_offset">အချိန်ဖြင့် မျိုးတူစုပါ</string>
     <string name="menu_item_sort_by_name">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="midnight">ည</string>
+    <string name="miui_clock_city_name_local">ဒေသတွင်း</string>
+    <string name="miui_clock_city_name_second">ဒုတိယ နာရီ</string>
+    <string name="miui_lock_screen_date">MMM dd EEE</string>
+    <string name="miui_lock_screen_date_12">MMM dd EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miuix_access_state_desc">ရွေးထားသည်</string>
     <string name="miuix_appcompat_action_mode_deselect_all">မရွေးတော့</string>
     <string name="miuix_appcompat_action_mode_select_all">အားလုံး ရွေးပါ</string>
     <string name="miuix_appcompat_action_mode_title_empty">အိုင်တမ်များရွေး</string>
@@ -327,7 +357,7 @@
     <string name="module_white_noise_download_data">ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန်အတွက် နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဤဒေါင်းလုဒ်အတွက် သင်၏ မိုဘိုင်းဒေတာထဲမှ ≈30MB အသုံးပြုပါမည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data> ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် (≈30MB) နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သင်သည် ယခု မိုဘိုင်းဒေတာကို သုံးပါတော့မည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="module_white_noise_download_wifi">ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန်အတွက် နာရီသည် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ယခုဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data> ပတ်ဝန်းကျင်ဆူညံသံများကို အချိန်ကိုက်နိုင်ရန် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန်နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> များကို ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>ပတ်ဝန်းကျင်ဆူညံသံများ အချိန်ကိုက်စနစ်များအတွက် အသံဖိုင်များ ဒေါင်းလုဒ်လုပ်ရန်နှင့် စိတ်ကြိုက်ပြုပြင်ထားသော ဝန်ဆောင်မှုများဆောင်ရွက်ပေးနိုင်ရန်အတွက် နာရီကို အင်တာနက်နှင့် ချိတ်ရပါမည်။ နာရီကို မသုံးမီ သင်သည် ကျွန်ုပ်တို့၏ &lt;a href=\"%1$s\">အသုံးပြုသူသဘောတူညီချက်&lt;/a> နှင့် &lt;a href=\"%2$s\">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a>များကိုလည်း ဖတ်ရှုပြီး သဘောတူရပါမည်။ သဘောတူပါသလား။&lt;/Data></string>
     <string name="monday">တနင်္လာ</string>
     <string name="monday_short">တနင်္လာ</string>
     <string name="monday_shortest">တနင်္လာ</string>
@@ -393,11 +423,23 @@
     <string name="other_settings">ထပ်ဆောင်းဆက်တင်</string>
     <string name="pause">တန့်ရပ်ပါ</string>
     <string name="percentage_sign">%</string>
+    <string name="permission_desc">ခွင့်ပြုချက်အသေးစိတ်</string>
+    <string name="permission_granted">ခွင့်ပြုထားသည်</string>
+    <string name="permission_rejected">ခွင့်မပြုထားပါ</string>
+    <string name="permission_related">ခွင့်ပြုချက်များ</string>
     <string name="personal_recommend">အကြောင်းအရာ စိတ်ကြိုက်လုပ်ခြင်း အကြံပြုချက်</string>
     <string name="pm">ညနေ</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="privacy_policy_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
+    <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
+    <string name="privacy_settings_title">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု</string>
+    <string name="query_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှုမူဝါဒကို ကြည့်ရန်</string>
     <string name="reach_upper_limit">အချိန်ကိုက်စနစ်များ ထပ်ထည့်မရတော့ပါ</string>
+    <string name="read_external_storage_permission_desc">စိတ်ကြိုက်ဖုန်းခေါ်သံများ သတ်မှတ်ရန်</string>
+    <string name="read_internal_storage">သိုလှောင်ခန်းဖတ်ခွင့်ပြုရန်</string>
+    <string name="read_phone_state">စက်အချက်အလက်များဖတ်ရန်</string>
+    <string name="read_phone_state_desc">နှိုးစက်မြည်နေစဉ် ခေါ်ဆိုမှုအခြေအနေကိုဖတ်ရန်</string>
+    <string name="read_phone_state_desc_when_request">ဖုန်းလက်ခံချိန်တွင် နှိုးစက်များကို အလိုအလျောက်ရပ်ရန်အတွက် ခေါ်ဆိုမှုအခြေအနေကိုဖတ်ရန်</string>
+    <string name="remark_hint">အညွှန်းထည့်ပါ</string>
     <string name="remind_ringtone">ဖုန်းမြည်သံ</string>
     <string name="repeat_count">အချိန်များ</string>
     <string name="repeat_count_value_five">၅</string>
@@ -405,6 +447,7 @@
     <string name="repeat_count_value_ten">၁၀</string>
     <string name="repeat_count_value_three">၃</string>
     <string name="repeat_count_value_two">၂</string>
+    <string name="repeat_type">ထပ်တလဲလဲလုပ်ရန်</string>
     <string name="reset">ပြန်သတ်မှတ်ပါ</string>
     <string name="revert">ပြောင်းပြန်ပြန်</string>
     <string name="ringtone_all">နှိုးစက်သံများအားလုံး</string>
@@ -423,7 +466,9 @@
     <string name="search_stopwatch_keywords">စံချိန်ယူနာရီ</string>
     <string name="search_timer_keywords">တိုင်မာ</string>
     <string name="search_worldclock_keywords">အချိန်၊ ကမ္ဘာ့အချိန်၊ နာရီ</string>
+    <string name="select_all">အားလုံးရွေးရန်</string>
     <string name="select_operation">ရွေးပါ</string>
+    <string name="selected">ရွေးထားသည်</string>
     <string name="send">ပို့ပါ</string>
     <string name="set_alarm">အချိန် ရွေးပါ</string>
     <string name="set_alarm_choose_ringtone">နှိုးစက်သံရွေးရန်</string>
@@ -438,6 +483,8 @@
     <string name="shortcut_new_alarm">နှိုးစက် သတ်မှတ်မည်</string>
     <string name="shortcut_start_timer">တိုင်မာ စတင်ပါ</string>
     <string name="shortcut_stop_watch">စံချိန်ယူနာရီ စတင်ပါ</string>
+    <string name="show_life_post_desc">ဤအင်္ဂါရပ်ကိုပိတ်ထားပါက နံနက်ခင်းအစီအရင်ခံစာများကို ပြမည်မဟုတ်ပါ</string>
+    <string name="show_life_post_lable">နံနက်ခင်းအစီအရင်ခံစာများကို ပြပါ</string>
     <string name="shut_down_keep_screen">စခရင်အား သိမ်းမထားပါ</string>
     <string name="shutdown_alarm_alert_enable_summary">သင့်စက်ကို ပါဝါပိတ်ပြီးနောက် အနည်းဆုံး ၁၀ မိနစ်အကြာတွင် အပိတ်နှိုးစက်သံ မြည်ပါမည်</string>
     <string name="shutdown_alarm_alert_enable_summary_new">စက်ပါဝါပိတ်ထားချိန်တွင်လည်း နှိုးစက်မြည်ရန် ဖွင့်ထားပါ။ စက်ပါဝါပိတ်ပြီး အနည်းဆုံး %d မိနစ်ကြာမှသာ စက်ပိတ်သွားရန် သတ်မှတ်ပါ။</string>
@@ -450,6 +497,7 @@
     <string name="sleep_analysis">ကိန်းဂဏန်းများ</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">Xiaomi Health က ပံ့ပိုးပေးထားသည့် အိပ်စက်ချိန် အချက်အလက်</string>
+    <string name="sleep_date_provider_text_new">အိပ်ချိန်ဒေတာကို Mi ကြံ့ခိုင်ရေးမှ ပံ့ပိုးသည်</string>
     <string name="sleep_duration">"အိပ်စက်ချိန် -  "</string>
     <string name="sleep_duration_avg_text_diff">ပျမ်းမျှအိပ်ချိန် (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">%1$s %2$s ကြာ အိပ်ခဲ့သည်</string>
@@ -465,6 +513,7 @@
     <string name="sleep_record">အိပ်စက်ချိန် မှတ်သားရန်</string>
     <string name="sleep_record_desc">အိပ်စက်မှုဆိုင်ရာ အချက်အလက်များကို စတင်မှတ်သားရန် ဖွင့်လိုက်ပါ</string>
     <string name="sleep_record_desc_detailed">အိပ်စက်ချိန်မှတ်သားခြင်းဆိုင်ရာ လုပ်ဆောင်ချက်အား Xiaomi Health က ဖော်ဆောင်ပေးထားခြင်း ဖြစ်ပါသည်။ Mi Health ကို ဖွင့်ပြီးနောက်တွင် သင်၏ ဖုန်းအသုံးပြုမှုနှင့် လုပ်ဆောင်ချက်ဆိုင်ရာ ကိန်းဂဏန်းများအပြင် သင်မှတ်ထားသည့် အိပ်ပျော်နေသောအချိန်များနှင့် အိပ်ရာထချိန်များအပေါ် အခြေခံ၍ သင်၏ အိပ်စက်ချိန်အား Xiaomi Health က အလိုအလျောက် မှတ်တမ်းတင်၍ သင်၏ ကိန်းဂဏန်းများအား ဇယားများဖြင့် ပြသပေးသွားပါမည်။ အိပ်စက်ချိန်ကို ပိုမိုတိကျစွာ မှတ်တမ်းတင်ရန်အတွက် Xiaomi Health ကို အလိုအလျောက် စတင်ခွင့်ပြုလိုက်ပါ။ သက်ဆိုင်ရာ အချက်အလက်များအားလုံးအား သင့်စက်ပေါ်တွင်သာ သိမ်းဆည်းသွားမည်ဖြစ်ပြီး သင်အလွယ်တကူ စီမံနိုင်စေရန် အထောက်အကူပြုပါသည်။</string>
+    <string name="sleep_record_desc_detailed_new">အိပ်ချိန်မှတ်သားခြင်းအင်္ဂါရပ်ကို Mi ကြံ့ခိုင်ရေးအိပ်ချိန်အင်္ဂါရပ်မှ ပံ့ပိုးသည်။ ဤအင်္ဂါရပ်ကိုဖွင့်ထားပါက Mi ကြံ့ခိုင်ရေးက သင်ဖုန်းသုံးနှုန်း၊ သင့်လုပ်ဆောင်ချက်၊ သင်သတ်မှတ်ထားသော အိပ်ချိန်နှင့် နိုးချိန်တို့အပေါ် အခြေခံပြီး သင့်အိပ်ချိန်ကို အလိုအလျောက်ကောက်ယူ၍ ဒေတာများပြသပါမည်။ အိပ်ချိန်ကို ပိုမိုတိကျစွာ မှတ်သားနိုင်ရန် Mi ကြံ့ခိုင်ရေးအား အလိုအလျောက် စခွင့်ပြုပါ။</string>
     <string name="sleep_record_no_data">Xiaomi Health က လုံလောက်သော အချက်အလက်များကို စိစစ်သုံးသပ်ပြီးနောက်တွင် သင့်ကိန်းဂဏန်းများသည် ဤနေရာတွင် ပေါ်လာပါမည်</string>
     <string name="sleep_remind">အိပ်စက်ချိန်ဆိုင်ရာ အသိပေးမှု</string>
     <string name="sleep_time">အိပ်ပျော်နေသည်</string>
@@ -563,6 +612,7 @@
     <string name="timer_alert_type_beach">ကမ်းခြေ</string>
     <string name="timer_alert_type_forest">သစ်တော</string>
     <string name="timer_alert_type_mute">မူလ</string>
+    <string name="timer_alert_type_no">တစ်ခုမျှမရှိပါ</string>
     <string name="timer_alert_type_rain">မိုး</string>
     <string name="timer_alert_type_spring_rain">နွေရာသီမိုး</string>
     <string name="timer_alert_type_stove_fire">မီးဖို</string>
@@ -574,6 +624,9 @@
     <string name="timer_continue">ဆက်လုပ်ရန်</string>
     <string name="timer_continue_timer">တိုင်မာအား ပြန်စပါ</string>
     <string name="timer_created">တိုင်မာ ပေါင်းထည့်ပြီးပါပြီ</string>
+    <string name="timer_desc_use_brush_teeth">သွားတိုက်ရန်</string>
+    <string name="timer_desc_use_facial_mask">နှာခေါင်းစည်းတပ်ရန်</string>
+    <string name="timer_desc_use_sleep">ခဏအိပ်ရန်</string>
     <string name="timer_end_time">%sတွင် တိုင်မာ ရပ်သွားလိမ့်မည်</string>
     <string name="timer_end_time_format">HH:mm MMM dd</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -582,6 +635,7 @@
     <string name="timer_is_paused">တိုင်မာအား ခေတ္တရပ်တန့်ထားသည်</string>
     <string name="timer_item_delete">ဖျက်ရန်</string>
     <string name="timer_item_duration_display">%1$d မိနစ် %2$d စက္ကန့်</string>
+    <string name="timer_item_edit">ပြင်ရန်</string>
     <string name="timer_item_label_hint">စံချိန်စက်အမည်</string>
     <string name="timer_item_picker_hour">နာရီ</string>
     <string name="timer_item_picker_minute">မိနစ်</string>
@@ -602,10 +656,18 @@
     <string name="tuesday_shortest">အင်္ဂါ</string>
     <string name="turn_off_a_repeat_alarm">ထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
+    <string name="tv_blank_list_other_text">ဤနေရာတွင် ဘာမျှမရှိသေးပါ။</string>
+    <string name="tv_blank_list_show_text">ဤနေရာတွင် ဘာမျှမရှိသေးပါ။ တည်နေရာတစ်ခုရှာပြီး ကမ္ဘာသုံးနာရီတွင်ထည့်ပါ။</string>
+    <string name="tv_world_clock_edit_title1">ပင်မမျက်နှာပြင်တွင် ပြထားသော တည်နေရာများ</string>
+    <string name="tv_world_clock_edit_title2">သိမ်းထားသော အခြားတည်နေရာများ</string>
+    <string name="unknown_ringtone_title">အမည်မသိ</string>
+    <string name="unselect_all">အားလုံးဖြုတ်ရန်</string>
     <string name="upcoming_alarm">နောက်လာမည့် နှိုးစက်- %s</string>
     <string name="upcoming_alarm_hint">ဤနှိုးစက်ကို ပိတ်နိုင်ပါပြီ</string>
     <string name="update_health_app">Xiaomi Health ကို အပ်ဒိတ်လုပ်ရန်</string>
     <string name="update_health_app_desc">အိပ်စက်ချိန်မှတ်သားခြင်းဆိုင်ရာ လုပ်ဆောင်ချက်အား Xiaomi Health က ဖော်ဆောင်ပေးထားခြင်း ဖြစ်ပါသည်။ သက်ဆိုင်ရာ အင်္ဂါရပ်များကို သုံးခွင့်ရရန်အတွက် Xiaomi Health အား ယင်း၏ နောက်ဆုံးထွက်ဗားရှင်းသို့ အပ်ဒိတ်လုပ်လိုက်ပါ။</string>
+    <string name="update_health_app_desc_new">အိပ်ချိန်မှတ်သားခြင်းအင်္ဂါရပ်ကို Mi ကြံ့ခိုင်ရေးမှ ပံ့ပိုးသည်။ သက်ဆိုင်ရာအင်္ဂါရပ်များကို ဝင်ရန် Mi ကြံ့ခိုင်ရေးအား နောက်ဆုံးဗားရှင်းသို့ အပ်ပဒိတ်လုပ်ပါ။</string>
+    <string name="update_health_app_new">Mi ကြံ့ခိုင်ရေးကို အပ်ပဒိတ်လုပ်ရန်</string>
     <string name="update_it">အပ်ဒိတ်လုပ်မည်</string>
     <string name="update_notification_info">နောက်ခံတွင် ဒေတာအား အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="usage_start">စတင်မည်</string>
@@ -627,8 +689,13 @@
     <string name="wednesday_short">ဗုဒ္ဓဟူး</string>
     <string name="wednesday_shortest">ဗုဒ္ဓဟူး</string>
     <string name="week_ringtone_recommend_desc">ရက်စွဲပေါ်မူတည်ပြီး သဘာဝ နိူးစက်က မတူညီသော အသံများ ဖွင့်ပေးသည်။ သင်၏ မူလ နိူးစက်အဖြစ် သတ်မျတ်လိုပါသလား။</string>
+    <string name="white_noise">ပတ်ဝန်းကျင်ဆူညံသံ</string>
+    <string name="white_noise_guide_desc">အာရုံစူးစိုက်နိုင်ရန် နောက်ခံအသံတစ်ခုထည့်ပါ</string>
+    <string name="white_noise_not_selected">ရွေးမထားပါ</string>
+    <string name="white_noise_selected">ရွေးထားသည်</string>
     <string name="white_noise_selector">အသံရွေးပါ</string>
     <string name="workday_alarm_clock">အလုပ်ဆင်းရက် နှိုးစက်</string>
+    <string name="worldclock_edit_label">ကမ္ဘာသုံးနာရီ</string>
     <string name="worldclock_empty_text">အချိန်နာရီများ မရှိပါ</string>
     <string name="worldclock_input_hint_text">နိုင်ငံ သို့မဟုတ် မြို့များ ရှာရန်</string>
     <string name="worldclock_local_time">ဒေသစံတော်ချိန်</string>
@@ -637,6 +704,7 @@
     <string name="worldclock_search_city">မြို့တစ်မြို့ ရွေးပါ</string>
     <string name="worldclock_second_time">%s စံတော်ချိန်</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">နာရီ</string>
     <string name="worldclock_world_time">ဒေသစံတော်ချိန်</string>
     <string name="worldcolock_date_display_prefix">လက်ရှိ- </string>
@@ -646,5 +714,9 @@
     <string name="worldcolock_timezone_date">MMM dd</string>
     <string name="worldcolock_timezone_gap">%s နာရီ</string>
     <string name="worldcolock_timezone_local">ဒေသစံတော်ချိန်နှင့် တူညီသည်</string>
+    <string name="xiaoai_ringtone_title">Mi AI ဖုန်းမြည်သံများ</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">နာရီသည် စနစ်အက်(ပ်)ဖြစ်သည်။ အက်(ပ်)ကိုဖြုတ်ပါက နာရီတိုက်ခြင်း၊ နှိုးစက်သတ်မှတ်ခြင်း သို့မဟုတ် အခြားနာရီအင်္ဂါရပ်များကို သုံးမရတော့ပါ။</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">နာရီကို ဖြုတ်လိုသလား။</string>
     <string name="yesterday">မနေ့က</string>
+    <string name="your_sounds">ကျွန်ုပ်၏ အသံများ</string>
 </resources>

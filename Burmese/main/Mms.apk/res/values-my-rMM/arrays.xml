@@ -14,6 +14,11 @@
         <item>မှတ်ချက်</item>
         <item>ဆက်စပ်မှု</item>
     </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>%s မှ ပရိုမိုးရှင်းမက်ဆေ့(ချ်)များ</item>
+        <item>%s မှ ဖုန်းလိုင်းဝန်ဆောင်မှုမက်ဆေ့(ချ်)များ</item>
+        <item>%s မှ ငွေရေးကြေးရေးဆိုင်ရာ မက်ဆေ့(ချ်)များ</item>
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>အများဆုံး</item>
         <item>၂ ရက်</item>
@@ -30,11 +35,6 @@
         <item>အမြဲတမ်း</item>
         <item>အသံတိတ်မုဒ်တွင်သာ</item>
         <item>ဘယ်တော့မှ</item>
-    </string-array>
-    <string-array name="recv_type">
-        <item>接收并通知</item>
-        <item>只接收</item>
-        <item>拒收</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>

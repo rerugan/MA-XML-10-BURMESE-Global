@@ -15,7 +15,7 @@
     <string name="failed_printer_connection">ပရင်တာချိတ်မရပါ</string>
     <string name="find_wifi_direct">Wi-Fi တိုက်ရိုက်ပရင်တာများရှာပါ</string>
     <string name="fix">ခ္ငင့်ပြုချက်ကို ပြန်စစ်ရန်</string>
-    <string name="forget">မေ့လိုက်ရန်</string>
+    <string name="forget">မေ့လိုက်ပါ</string>
     <string name="hostname_or_ip">ဟို့(စ်)အမည် သို့မဟုတ် IP လိပ်စာ</string>
     <string name="media_size_4x6in">4x6 လက်မ</string>
     <string name="media_size_54x86mm">54x86 မီလီမီတာ</string>

@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="agps_network_entries">
-        <item>ပင်မ ကွန်ရက်</item>
-        <item>ကွန်ရက် အားလုံး</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>ပူသော</item>
-        <item>နွေးသော</item>
-        <item>အေးသော</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
     <string-array name="ai_key_item_name">
         <item>Google လက်ထောက်သို့ စကားပြောမည်</item>
         <item>Google ရှာ​ဖွေမှုအား ဖွင့်ပါ</item>
@@ -73,6 +43,8 @@
         <item>လုပ်ငန်းစဉ် အများဆုံး ၃ ခု</item>
         <item>လုပ်ငန်းစဉ် အများဆုံး ၄ ခု</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
+    <array name="avatar_images" />
     <string-array name="battery_indicator_style_entries">
         <item>ဂရပ်ဖစ်နှင့်ဆိုင်သော</item>
         <item>ရာခိုင်နှုန်း (အိုင်ကွန်ထဲတွင်)</item>
@@ -93,13 +65,13 @@
         <item>ကြာမြင့်ချိန် မုဒ်</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (ပုံသေ)</item>
+        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
         <item>16 bits/နမူနာ</item>
         <item>24 bits/နမူနာ</item>
         <item>32 bits/နမူနာ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (ပုံသေ)</item>
+        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
         <item>16 bits/နမူနာ</item>
         <item>24 bits/နမူနာ</item>
         <item>32 bits/နမူနာ</item>
@@ -151,14 +123,14 @@
         <item>အကောင်းဆုံးအားထုတ်မှု (အလိုအလျောက် bit နှုန်း)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (ပုံသေ)</item>
+        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (ပုံသေ)</item>
+        <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
@@ -173,11 +145,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
         <item>Qualcomm® aptX™ TWS+ အသံ</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
-        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
-        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
+        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>စနစ်ရွေးချယ်မှုကို သုံးမည် (မူလ)</item>
@@ -188,11 +160,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive အော်ဒီယို</item>
         <item>Qualcomm® aptX™ TWS+ အသံ</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
-        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ဖွင့်ရန်</item>
-        <item>ချန်လှပ်နိုင်သော ကုဒ်ပြောင်းကိရိယာများကို ပိတ်ရန်</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ဖွင့်ပါ</item>
+        <item>ရွေးချယ်နိုင်သော ကုဒ်ပြောင်းကိရိယာအား ပိတ်ပါ</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -201,9 +173,9 @@
         <item>" | အသက်သွင်းထားသည် (ဖုန်း)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
         <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
@@ -236,6 +208,13 @@
         <item>၁၀ စက္ကန့်</item>
         <item>စက္ကန့် ၂၀</item>
         <item>အမြဲတမ်း</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>စာသားအရွယ် အလွန်သေး</item>
+        <item>စာသားအရွယ် အသေး</item>
+        <item>စာသားအရွယ် ပုံမှန်</item>
+        <item>စာသားအရွယ် အကြီး</item>
+        <item>စာသားအရွယ် အလွန်ကြီး</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>မျက်နှာဖြင့် လော့ခ်ဖြည်ခြင်း</item>
@@ -590,7 +569,7 @@
         <item>glGetError မှ စုပုံခေါ်ဆိုမှု</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-        <item>သင့်ကိရိယာက ဒီဆက်တင်ကို အသုံးချဖို့အတွက် စက်လုပ်ငန်းပြန်စတင်ရန်ပြင်ဆင်မည်လား?</item>
+        <item>ဤဆက်တင်ကို သုံးရန် စက်ကို ပိတ်၍ပြန်ဖွင့်မလား?</item>
         <item>ဤဆက်တင်ကို သုံးရန် စက်ကို ပိတ်၍ပြန်ဖွင့်မလား?</item>
     </string-array>
     <string-array name="fluency_mode_entries">
@@ -606,16 +585,11 @@
         <item>၄.၀ လက်မ</item>
         <item>၃.၅ လက်မ</item>
     </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-    </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>ပိတ်မည်</item>
-        <item>အားနည်းသော</item>
+        <item>ပိတ်ရန်</item>
+        <item>အပျော့</item>
         <item>အလယ်အလတ်</item>
-        <item>အားပြင်းသော</item>
+        <item>အပြင်း</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>ဘယ်တော့မှ HDCP ဖြင့် မစစ်ဆေးပါနှင့်</item>
@@ -736,13 +710,13 @@
         <item>ရွေ့နေသည်…</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
-        <item>ဂရပ်ဖစ်ဆိုင်ရာ</item>
+        <item>ဂရပ်ဖစ်</item>
         <item>ရာခိုင်နှုန်း (သင်္ကေတဖြင့်)</item>
         <item>ရာခိုင်နှုန်း (သင်္ကေတဘေးတွင်)</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
-        <item>ရှာဖွေရန်</item>
-        <item>ဆက်တင်</item>
+        <item>ရှာရန်</item>
+        <item>ဆက်တင်များ</item>
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI</item>
@@ -873,12 +847,12 @@
         <item>မီးနူးကို ပြပါ</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>လက်ရှိအလင်းရောင်အပေါ်မူတည်ပြီး အရောင်ချိန်ပါ</item>
+        <item>ပြသသောအကြောင်းအရာအပေါ်မူတည်ပြီး အရောင်ချိန်ပါ</item>
         <item>အရောင်များကို အမြဲအားမြှင့်ပါ</item>
         <item>အလင်းအမှောင် မပြောင်းလဲဘဲ ရှိမည်</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>အလိုအလျောက် (အကြံပြုပါသည်)</item>
+        <item>ထင်ထင်ရှားရှား (အကြံပြုပါသည်)</item>
         <item>အားမြှင့်ထားသည်</item>
         <item>စံအရောင်</item>
     </string-array>
@@ -907,25 +881,25 @@
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>ပိတ်မည်</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>ပိတ်မည်</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 64 KB</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 256 KB</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 1 MB</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 4 MB</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 16 MB</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 64K</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 256K</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 1M</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 4M</item>
+        <item>8M per log buffer</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>ပိတ်မည်</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>16 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>ပိတ်မည်</item>
@@ -1005,12 +979,12 @@
         <item>အန်နီမေးရှင်းစကေး 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>လက်ရှိအလင်းရောင်အပေါ်မူတည်ပြီး အရောင်ချိန်ပါ</item>
+        <item>ပြသသောအကြောင်းအရာအပေါ်မူတည်ပြီး အရောင်ချိန်ပါ</item>
         <item>အရောင်များကို အမြဲအားမြှင့်ပါ</item>
         <item>အရောင်ချိန်ညှိစနစ်သုံးပြီး မျက်နှာပြင်ရှိအရာများကို မူလစံအရောင်သို့ ပြန်ထားရန်</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>အလိုအလျောက် (အကြံပြုသည်)</item>
+        <item>ထင်ထင်ရှားရှား (အကြံပြုပါသည်)</item>
         <item>အားမြှင့်ထားသည်</item>
         <item>မူလအရောင်</item>
     </string-array>
@@ -1082,16 +1056,10 @@
         <item>အလယ်အလတ်</item>
         <item>မြင့်သော</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="wide_notch_battery_indicator_style_entries">
-        <item>ကိန်းဂဏန်းဖြင့်</item>
+        <item>ဂရပ်ဖစ်</item>
         <item>ရာခိုင်နှုန်း (သင်္ကေတဖြင့်)</item>
-        <item>ရာခိုင်နှုန်း (သတိပေးအသိပေးချက်အတန်းရှိ သင်္ကေတဘေးတွင်)</item>
+        <item>ရာခိုင်နှုန်း (အသိပေးချက်ရှိတ်ရှိ သင်္ကေတဘေးတွင်)</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
@@ -1101,6 +1069,14 @@
         <item>အလိုအလျောက် ချိတ်ဆက်ပါ</item>
         <item>ကိုယ်တိုင် ချိတ်ဆက်ပါ</item>
         <item>အမြဲတမ်း မေးပါ</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>အရန်</item>
+        <item>အပြည့်</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Wi-Fi လိုင်းမကောင်းချိန်သာ မိုဘိုင်းဒေတာသုံးပြီး နှုန်းမြှင့်ရန်</item>
+        <item>ကွန်ရက်နှုန်းမြှင့်ရန် Wi-Fi နှင့် မိုဘိုင်းဒေတာ ပေါင်းသုံးရန်</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
         <item>ကျပန်း MAC ကို သုံးပါ</item>
